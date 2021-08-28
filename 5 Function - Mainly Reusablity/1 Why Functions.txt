@@ -1,0 +1,11 @@
+Mainly reuse the same code again and again without extra effort.
+
+Created with 
+def Function_Name(n) :
+      _Function_Work_
+
+
+Calling it again and again
+Function_Name(2)
+Function_Name(3)
+Function_Name(4)
